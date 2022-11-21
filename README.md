@@ -1,6 +1,6 @@
 # Different Cryptographic Functions implemented in R
 ### Francesco Pinto
-### Cryptography in Networking Course - University of Helsinki
+#### University of Helsinki
 
 These function have been developed to do the Cryptography course's exam in October 2022, then I decided to share them. \
 The implemented functions are: \
