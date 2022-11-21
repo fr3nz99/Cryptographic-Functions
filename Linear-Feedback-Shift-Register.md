@@ -21,7 +21,7 @@ shift.vector <- function(x, shift = 0, fill = FALSE) {
 }
 ```
 
-\[this function is taken by
+\[this function is taken from
 <https://github.com/timriffe/DemoTools/blob/master/R/utils.R>\]
 
 ## Ececution of the LFSR
