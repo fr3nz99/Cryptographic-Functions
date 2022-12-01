@@ -24,7 +24,7 @@ shift.vector <- function(x, shift = 0, fill = FALSE) {
 \[this function is taken from
 <https://github.com/timriffe/DemoTools/blob/master/R/utils.R>\]
 
-## Ececution of the LFSR
+## Execution of the LFSR
 
 ``` r
 lfsr = function(state, taps){
